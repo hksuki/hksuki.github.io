@@ -1,7 +1,7 @@
 baseURL = 'https://hksuki.online/'
 languageCode = 'en-us'
-title = 'hkuksi's blog'
-theme = "gokarna"
+title = 'hkuksi blog'
+heme = "gokarna"
 
 
 [caches]
