@@ -2,8 +2,3 @@ baseURL = 'https://hksuki.online/'
 languageCode = 'en-us'
 title = 'hksuki blog'
 heme = "gokarna"
-
-
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
