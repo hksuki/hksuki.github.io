@@ -1,4 +1,9 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hksuki.online/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'hkuksi's blog'
 theme = "gokarna"
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
